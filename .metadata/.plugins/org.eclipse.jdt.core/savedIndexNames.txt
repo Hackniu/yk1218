@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/YulinKristiansen/Desktop/interview/yk1217/.metadata/.plugins/org.eclipse.jdt.core
+2010022105.index
+1865797976.index
+1409652377.index
