@@ -47,9 +47,4 @@ public class Demo {
 		finalCost(toolCode, checkoutDate,rentalDate,discount);
 		
 	}	
-//	public static void main(String[] args) throws Throwable {
-//		Demo cd = new Demo();
-//		cd.finalAgreement("JAKR", "7/2/20", 4, 50);
-//		
-//	}
 }
